@@ -1,18 +1,17 @@
-The Digital Detective
+## The Digital Detective
 
-:::---> About this project
+## About this project
        --------------------
     This repository contains my work for the Diwali Independent Learning
 Assignment "The Digital Detective". In it I explore how a computer works,
 practise Terminal commands, learn about operating systems, number systems,
 Git/GitHub and networking, and document everything as I go.
 
-:::---> Author
+## Author
        --------
 NAME - HIMANSHU GIRI
-USN - 2402608036
 
-:::---> Mission index
+## Mission index
        ---------------
 | Mission | Topic | Link |
 |---------|-------|------|
@@ -26,8 +25,20 @@ USN - 2402608036
 | 7 | Computer networks | [mission-07-networking](mission-07-networking/README.md) |
 | 8 | Final review and submission | [mission-08-final-report](mission-08-final-report/README.md) |
 
-:::---> How this repository is organised
+## How this repository is organised
        ----------------------------------
 Each mission has its own folder with its own README. Every mission was
 completed, documented and committed separately, so the commit history shows
 my progress mission by mission.
+
+## My Learning
+
+- **How a computer works:** I learned that every task follows the IPOS cycle
+  of input, processing, output and storage, and I traced one everyday
+  activity through each stage.
+- **Terminal basics:** I learned that `>` replaces a file's contents while
+  `>>` adds to the end, and that `cp` keeps the original while `mv` moves or
+  renames it.
+- **Number systems:** I learned to convert between decimal, binary and
+  hexadecimal by hand, and then checked my answers with Python's `bin()`,
+  `hex()` and `int()`.
