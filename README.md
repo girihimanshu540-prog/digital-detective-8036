@@ -31,3 +31,30 @@ USN - 2402608036
 Each mission has its own folder with its own README. Every mission was
 completed, documented and committed separately, so the commit history shows
 my progress mission by mission.
+
+## Purpose of this assignment
+For better understanding about what we learned throughout all the past lectures
+
+## Topics explored
+- Computer fundamentals and IPOS
+- Terminal commands and file management
+- Operating systems, processes and permissions
+- Compilers and interpreters
+- Number systems, Python and text encoding
+- Git, GitHub, branches and Pull Requests
+- Computer networks
+
+## How to run the number converter
+```bash
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+Enter a decimal number when asked, and the program prints its binary
+and hexadecimal forms.
+
+## What I learned
+I learned every topic mentioned over and also learned how to work in git and github properly .
+
+## How this repository was built
+Each mission was documented and committed separately, so the commit
+history shows my progress mission by mission.
